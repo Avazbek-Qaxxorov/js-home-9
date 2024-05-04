@@ -13,7 +13,6 @@ function theForestgenerate(n) {
         return arr
 
 }
-
 let n = 8;
 
 let result = theForestgenerate(n);
